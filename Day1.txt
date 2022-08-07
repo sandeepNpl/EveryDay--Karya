@@ -1,0 +1,7 @@
+I read chapter-1 and chapte-2 of computer of organization subject 
+today using "POMODORO TECHNIQUE"(25 min study x 5 min rest).
+*********************************************************************************
+Then I also understood the deep concept of DOM(Document Object Model).
+-Drilling into the DOM to select and change HTML elements.
+- Loading our script correctly.
+-The DOM tree and Traversal.
